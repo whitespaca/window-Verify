@@ -1,4 +1,4 @@
-# Window Verify Batchfiles
+# Window 10 & 11 Verify Batchfiles
 
 ## How to use?
 
